@@ -27666,6 +27666,13 @@
 		"Image": "vtr-helios-V2.png"
 	},
 	{
+		"Brand": "VTR",
+		"Name": "Dream Machine v2",
+		"Width": 2.68,
+		"Height": 4.89,
+		"Image": "vtr-dream-V2.png"
+	},
+	{
 		"Brand": "Whirlwind",
 		"Name": "Red Box",
 		"Width": 2.61,
